@@ -72,8 +72,12 @@ The model explicitly links:
 ```text
 FPI = mean(C_final × anoxia_final) / mean(C_initial)
 FPI = mean(C_final × anoxia_final) / mean(C_initial)
-'''
+
+```
+
 ---
+``
+
 
 ## Hallucigenia Body Plan Representation
 
