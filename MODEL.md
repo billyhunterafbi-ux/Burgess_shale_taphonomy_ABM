@@ -8,7 +8,7 @@ This model tests whether the preservation window in Burgess Shale–type Lagerst
 
 ## 1. Motivation
 
-Mechanistic explanations for Konservat-Lagerstätten formation remain largely qualitative or reconstructed post hoc from preserved geochemical signatures. The framework of Gaines et al. (2012) — oxidant limitation suppressing early decay — provides the most rigorous current account of Burgess Shale–type preservation. However, it does not explicitly model:
+Mechanistic explanations for Konservat-Lagerstätten formation remain largely qualitative or reconstructed post hoc from preserved geochemical signatures. The framework of Gaines et al. (2012), characterised by oxidant limitation suppressing early decay, provides the most rigorous current account of Burgess Shale–type preservation. However, it does not explicitly model:
 
 - how these conditions arise dynamically  
 - why they develop at the correct rate relative to carcass decay  
